@@ -1,1 +1,1 @@
-web: ./target/release/hello
+web: ./target/release/birthday-team-telegram-bot
